@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaketDev
 - 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Node and React
 - 📫 How to reach me:
     - Discord: Raket
 
